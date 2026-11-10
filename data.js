@@ -25,7 +25,7 @@ window.PROJECTS = [
     ],
     stack: ["Node.js", "WebSockets", "SQLite", "Glicko-2", "Three.js", "PWA", "Worker threads", "Google Identity", "Vercel + VPS"],
     stats: [["13", "live games"], ["~19.6k", "lines of code"], ["Glicko-2", "skill ratings"]],
-    links: [["Play the test site", "https://versusx-theta.vercel.app"]]
+    links: [["Play the test site", "https://badim04.github.io/versusx/"], ["Play (Vercel mirror)", "https://versusx-theta.vercel.app"]]
   },
   {
     id: "finlo",
@@ -123,7 +123,7 @@ window.PROJECTS = [
     ],
     stack: ["React Native", "Expo SDK 57", "TypeScript", "NativeWind", "Zustand", "MMKV", "Jest", "EAS Build"],
     stats: [["4", "networks + banks"], ["0", "risky permissions"], ["100%", "works offline"]],
-    links: [["Privacy & listing site", "https://codedial-legal.vercel.app"]]
+    links: [["Privacy & listing site", "https://badim04.github.io/codedial-legal/"], ["Vercel mirror", "https://codedial-legal.vercel.app"]]
   },
   {
     id: "football",
